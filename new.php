@@ -1,6 +1,6 @@
 <?php
 
-$sql = 5;
+$sql = 3;
 echo $sql;
 
 ?>
